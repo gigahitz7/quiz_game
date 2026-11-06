@@ -3,6 +3,7 @@ from quiz import Quiz
 quiz_list = [
     Quiz("대한민국의 수도는?", ["서울", "부산", "대구", "인천"], 1),
     Quiz("1 + 1 = ?", ["1", "2", "3", "4"], 2),
+    Quiz("파이썬에서 출력하는 함수는?", ["input", "print", "open", "len"], 2),  # ← 새 문제!
 ]
 
 def run_game():
