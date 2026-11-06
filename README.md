@@ -23,13 +23,15 @@ python main.py
 점수 확인 (예정)
 종료 (예정)
 📁 파일 구조
-code
-📋 복사
+## 📁 파일 구조
+
+```
 quiz_game/
 ├── quiz.py        # Quiz 클래스 (개별 문제)
 ├── main.py        # 게임 실행
 ├── .gitignore
 └── README.md
+```
 💾 데이터 파일 설명 (state.json)
 (파일 저장 기능 구현 후 작성 예정)
 
