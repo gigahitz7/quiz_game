@@ -24,7 +24,7 @@ python main.py
 🏆 점수 확인 (예정)
 🚪 종료 (예정)
 📁 파일 구조
-code
+
 quiz_game/
 ├── quiz.py        # Quiz 클래스 (개별 문제)
 ├── main.py        # 게임 실행
